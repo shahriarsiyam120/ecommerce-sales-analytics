@@ -1,0 +1,47 @@
+{
+  "source_type": "files",
+  "default_format": "csv",
+  "datasets": {
+    "customers": {
+      "path": "data/raw/customers.csv",
+      "column_mapping": {
+        "Customer ID": "customer_id",
+        "Customer Name": "customer_name",
+        "Email": "customer_email",
+        "Region": "customer_region",
+        "City": "customer_city",
+        "Segment": "customer_segment",
+        "Signup Date": "signup_date"
+      }
+    },
+    "products": {
+      "path": "data/raw/products.xlsx",
+      "format": "excel",
+      "sheet_name": "Products",
+      "column_mapping": {
+        "SKU": "product_id",
+        "Name": "product_name",
+        "Category": "category",
+        "Subcategory": "subcategory",
+        "Cost": "unit_cost",
+        "Price": "unit_price"
+      }
+    },
+    "orders": {
+      "path": "data/raw/orders.parquet",
+      "format": "parquet",
+      "column_mapping": {
+        "Order Number": "order_id",
+        "Purchased At": "order_date",
+        "Customer ID": "customer_id",
+        "SKU": "product_id",
+        "Units": "quantity",
+        "Discount Rate": "discount",
+        "Payment": "payment_method",
+        "Status": "order_status"
+      }
+    }
+  },
+  "accepted_categories": {},
+  "output_directory": "data/processed"
+}

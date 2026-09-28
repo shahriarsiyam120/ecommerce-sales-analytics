@@ -1,0 +1,101 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+P0001,Sleeping Bag Model 001,Sports & Outdoors,Camping,63.58,105.79
+P0002,Webcam Model 002,Electronics,Cameras,75.06,107.35
+P0003,Kettlebell Model 003,Sports & Outdoors,Fitness,98.11,142.80
+P0004,Grooming Kit Model 004,Beauty & Personal Care,Personal Care,37.17,52.15
+P0005,Running Shorts Model 005,Apparel,Activewear,17.61,41.09
+P0006,Daily Moisturizer Model 006,Beauty & Personal Care,Skincare,17.54,24.82
+P0007,Glass Container Set Model 007,Home & Kitchen,Storage,14.65,28.74
+P0008,Cotton T-Shirt Model 008,Apparel,Basics,17.77,39.31
+P0009,LED Light Strip Model 009,Home & Kitchen,Lighting,30.52,71.59
+P0010,Running Shorts Model 010,Apparel,Activewear,40.26,81.44
+P0011,Running Shorts Model 011,Apparel,Activewear,16.39,28.81
+P0012,Daily Moisturizer Model 012,Beauty & Personal Care,Skincare,12.20,21.50
+P0013,Gentle Cleanser Model 013,Beauty & Personal Care,Skincare,27.41,38.58
+P0014,Face Serum Model 014,Beauty & Personal Care,Skincare,22.35,33.49
+P0015,Water Bottle Cage Model 015,Sports & Outdoors,Cycling,58.13,145.57
+P0016,Resistance Band Set Model 016,Sports & Outdoors,Fitness,12.72,30.73
+P0017,Glass Container Set Model 017,Home & Kitchen,Storage,30.08,76.56
+P0018,Travel Hammock Model 018,Sports & Outdoors,Camping,56.43,125.98
+P0019,Baking Tray Model 019,Home & Kitchen,Cookware,21.48,45.11
+P0020,Running Shorts Model 020,Apparel,Activewear,20.33,31.63
+P0021,Floor Lamp Model 021,Home & Kitchen,Lighting,64.80,100.91
+P0022,Shelf Organizer Model 022,Home & Kitchen,Storage,17.25,31.73
+P0023,Repair Kit Model 023,Sports & Outdoors,Cycling,23.77,52.30
+P0024,Saucepan Set Model 024,Home & Kitchen,Cookware,30.05,59.06
+P0025,Shampoo Set Model 025,Beauty & Personal Care,Haircare,14.70,30.08
+P0026,Laptop Stand Model 026,Electronics,Accessories,71.60,164.01
+P0027,Kettlebell Model 027,Sports & Outdoors,Fitness,55.43,105.14
+P0028,Running Shorts Model 028,Apparel,Activewear,13.79,21.61
+P0029,Resistance Band Set Model 029,Sports & Outdoors,Fitness,53.80,105.23
+P0030,Daily Moisturizer Model 030,Beauty & Personal Care,Skincare,8.40,15.83
+P0031,Fleece Pullover Model 031,Apparel,Outerwear,19.44,39.81
+P0032,Grooming Kit Model 032,Beauty & Personal Care,Personal Care,29.41,47.15
+P0033,Yoga Mat Model 033,Sports & Outdoors,Fitness,42.32,64.11
+P0034,Travel Dryer Model 034,Beauty & Personal Care,Haircare,26.15,44.51
+P0035,Face Serum Model 035,Beauty & Personal Care,Skincare,4.06,8.39
+P0036,Sleeping Bag Model 036,Sports & Outdoors,Camping,62.03,92.23
+P0037,Travel Hammock Model 037,Sports & Outdoors,Camping,48.33,75.89
+P0038,Studio Earbuds Model 038,Electronics,Audio,25.87,38.37
+P0039,Laptop Stand Model 039,Electronics,Accessories,96.13,139.91
+P0040,Saucepan Set Model 040,Home & Kitchen,Cookware,44.65,104.05
+P0041,Charging Cable Model 041,Electronics,Accessories,51.85,114.09
+P0042,Puffer Vest Model 042,Apparel,Outerwear,23.13,35.09
+P0043,Desk Lamp Model 043,Home & Kitchen,Lighting,48.97,104.90
+P0044,Face Serum Model 044,Beauty & Personal Care,Skincare,41.27,69.68
+P0045,Studio Earbuds Model 045,Electronics,Audio,61.43,130.14
+P0046,Wireless Headphones Model 046,Electronics,Audio,107.60,164.72
+P0047,Grooming Kit Model 047,Beauty & Personal Care,Personal Care,34.48,55.10
+P0048,Water Bottle Cage Model 048,Sports & Outdoors,Cycling,21.63,40.80
+P0049,Resistance Band Set Model 049,Sports & Outdoors,Fitness,20.16,33.70
+P0050,Hair Brush Model 050,Beauty & Personal Care,Haircare,11.00,24.71
+P0051,Shampoo Set Model 051,Beauty & Personal Care,Haircare,41.46,60.32
+P0052,Sleeping Bag Model 052,Sports & Outdoors,Camping,79.64,111.56
+P0053,USB-C Hub Model 053,Electronics,Accessories,37.42,57.30
+P0054,Resistance Band Set Model 054,Sports & Outdoors,Fitness,50.89,86.13
+P0055,Studio Earbuds Model 055,Electronics,Audio,32.15,53.24
+P0056,Floor Lamp Model 056,Home & Kitchen,Lighting,37.05,80.82
+P0057,Webcam Model 057,Electronics,Cameras,33.31,46.87
+P0058,Studio Earbuds Model 058,Electronics,Audio,31.27,55.16
+P0059,Glass Container Set Model 059,Home & Kitchen,Storage,48.56,86.56
+P0060,Desk Lamp Model 060,Home & Kitchen,Lighting,43.03,92.75
+P0061,Sports Top Model 061,Apparel,Activewear,24.32,36.21
+P0062,Baking Tray Model 062,Home & Kitchen,Cookware,42.54,77.83
+P0063,Tripod Kit Model 063,Electronics,Cameras,34.61,73.14
+P0064,Travel Dryer Model 064,Beauty & Personal Care,Haircare,5.77,11.34
+P0065,Travel Dryer Model 065,Beauty & Personal Care,Haircare,35.72,55.33
+P0066,Studio Earbuds Model 066,Electronics,Audio,84.49,129.41
+P0067,LED Light Strip Model 067,Home & Kitchen,Lighting,79.31,111.48
+P0068,Charging Cable Model 068,Electronics,Accessories,28.97,54.37
+P0069,Studio Earbuds Model 069,Electronics,Audio,59.03,120.44
+P0070,Saucepan Set Model 070,Home & Kitchen,Cookware,36.20,57.22
+P0071,Running Shorts Model 071,Apparel,Activewear,27.48,47.21
+P0072,Laptop Stand Model 072,Electronics,Accessories,7.45,13.24
+P0073,Electric Toothbrush Model 073,Beauty & Personal Care,Personal Care,17.96,43.47
+P0074,Bike Helmet Model 074,Sports & Outdoors,Cycling,46.26,81.41
+P0075,Shampoo Set Model 075,Beauty & Personal Care,Haircare,17.72,32.05
+P0076,Travel Mirror Model 076,Beauty & Personal Care,Personal Care,16.19,33.13
+P0077,Repair Kit Model 077,Sports & Outdoors,Cycling,29.06,42.80
+P0078,Repair Kit Model 078,Sports & Outdoors,Cycling,10.07,26.03
+P0079,Shampoo Set Model 079,Beauty & Personal Care,Haircare,8.96,17.30
+P0080,Tripod Kit Model 080,Electronics,Cameras,13.75,26.09
+P0081,Saucepan Set Model 081,Home & Kitchen,Cookware,67.41,95.34
+P0082,Everyday Hoodie Model 082,Apparel,Basics,6.29,11.23
+P0083,Rain Jacket Model 083,Apparel,Outerwear,13.48,22.62
+P0084,Yoga Mat Model 084,Sports & Outdoors,Fitness,48.46,106.50
+P0085,Electric Toothbrush Model 085,Beauty & Personal Care,Personal Care,9.43,16.05
+P0086,LED Light Strip Model 086,Home & Kitchen,Lighting,28.89,75.25
+P0087,Baking Tray Model 087,Home & Kitchen,Cookware,37.60,85.75
+P0088,Running Shorts Model 088,Apparel,Activewear,27.03,41.98
+P0089,Everyday Hoodie Model 089,Apparel,Basics,9.88,14.67
+P0090,Resistance Band Set Model 090,Sports & Outdoors,Fitness,4.93,11.07
+P0091,Cotton T-Shirt Model 091,Apparel,Basics,13.41,21.40
+P0092,Running Shorts Model 092,Apparel,Activewear,9.85,24.53
+P0093,Hair Brush Model 093,Beauty & Personal Care,Haircare,12.04,28.02
+P0094,Sleeping Bag Model 094,Sports & Outdoors,Camping,72.31,127.28
+P0095,Wireless Headphones Model 095,Electronics,Audio,17.79,43.47
+P0096,Everyday Hoodie Model 096,Apparel,Basics,23.79,42.46
+P0097,Everyday Hoodie Model 097,Apparel,Basics,9.32,23.47
+P0098,Daily Moisturizer Model 098,Beauty & Personal Care,Skincare,14.29,33.63
+P0099,Storage Basket Model 099,Home & Kitchen,Storage,8.14,19.62
+P0100,Desk Lamp Model 100,Home & Kitchen,Lighting,33.83,81.55

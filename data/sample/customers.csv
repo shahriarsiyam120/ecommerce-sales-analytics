@@ -1,0 +1,501 @@
+customer_id,customer_name,customer_email,customer_region,customer_city,customer_segment,signup_date
+C00001,Alex Testwell,customer00001@example.invalid,West,Summit Bay,Small Business,2024-03-21
+C00002,Morgan Mockley,customer00002@example.invalid,Midwest,Fairview,Small Business,2023-04-05
+C00003,Casey Placeholder,customer00003@example.invalid,Southwest,Mesa Vista,Consumer,2024-12-03
+C00004,Alex Testwell,customer00004@example.invalid,West,Silverpine,Consumer,2024-09-23
+C00005,Cameron Fiction,customer00005@example.invalid,Southeast,Pinehaven,Consumer,2023-08-28
+C00006,Morgan Example,customer00006@example.invalid,Southeast,Oakridge,Consumer,2024-07-02
+C00007,Avery Sample,customer00007@example.invalid,Midwest,Lakeview,Small Business,2024-04-19
+C00008,Cameron Sample,customer00008@example.invalid,Midwest,Lakeview,Consumer,2023-08-02
+C00009,Cameron Synthetic,customer00009@example.invalid,Southeast,Clearwater,Small Business,2025-01-01
+C00010,Avery Sample,customer00010@example.invalid,West,Westhaven,Consumer,2023-10-27
+C00011,Taylor Dataset,customer00011@example.invalid,Midwest,Lakeview,Consumer,2024-02-05
+C00012,Jamie Practice,customer00012@example.invalid,Northeast,Mapleford,Consumer,2023-03-05
+C00013,Jamie Practice,customer00013@example.invalid,Northeast,Sampleton,Small Business,2024-09-30
+C00014,Casey Demo,customer00014@example.invalid,West,Westhaven,Consumer,2024-12-16
+C00015,Alex Practice,customer00015@example.invalid,West,Summit Bay,Small Business,2023-09-23
+C00016,Jordan Demo,customer00016@example.invalid,Midwest,Fairview,Consumer,2023-05-08
+C00017,Cameron Mockley,customer00017@example.invalid,Northeast,Sampleton,Consumer,2024-07-22
+C00018,Casey Fiction,customer00018@example.invalid,Midwest,Lakeview,Small Business,2024-01-08
+C00019,Morgan Practice,customer00019@example.invalid,Southeast,Pinehaven,Small Business,2024-12-31
+C00020,Avery Sample,customer00020@example.invalid,Midwest,Lakeview,Consumer,2024-12-12
+C00021,Quinn Placeholder,customer00021@example.invalid,West,Silverpine,Small Business,2024-09-01
+C00022,Jamie Sample,customer00022@example.invalid,Midwest,Lakeview,Consumer,2024-03-04
+C00023,Jamie Placeholder,customer00023@example.invalid,West,Silverpine,Consumer,2023-01-15
+C00024,Alex Placeholder,customer00024@example.invalid,Northeast,Sampleton,Consumer,2023-12-08
+C00025,Avery Dataset,customer00025@example.invalid,Northeast,Riverton,Consumer,2024-03-26
+C00026,Jamie Mockley,customer00026@example.invalid,Northeast,Riverton,Consumer,2024-09-03
+C00027,Taylor Synthetic,customer00027@example.invalid,Northeast,Riverton,Consumer,2023-09-10
+C00028,Taylor Fiction,customer00028@example.invalid,Midwest,Fairview,Small Business,2024-05-30
+C00029,Jamie Synthetic,customer00029@example.invalid,West,Westhaven,Small Business,2024-12-14
+C00030,Quinn Testwell,customer00030@example.invalid,Northeast,Mapleford,Consumer,2023-09-27
+C00031,Riley Example,customer00031@example.invalid,West,Silverpine,Consumer,2024-01-17
+C00032,Cameron Demo,customer00032@example.invalid,West,Silverpine,Consumer,2024-10-03
+C00033,Quinn Dataset,customer00033@example.invalid,Southwest,Sagebrush,Small Business,2024-08-27
+C00034,Jordan Fiction,customer00034@example.invalid,Southeast,Pinehaven,Consumer,2024-07-14
+C00035,Morgan Placeholder,customer00035@example.invalid,Midwest,Fairview,Consumer,2024-08-02
+C00036,Jamie Placeholder,customer00036@example.invalid,Northeast,Mapleford,Consumer,2023-06-30
+C00037,Cameron Demo,customer00037@example.invalid,West,Westhaven,Consumer,2023-05-25
+C00038,Morgan Mockley,customer00038@example.invalid,Southeast,Clearwater,Consumer,2023-02-13
+C00039,Jordan Practice,customer00039@example.invalid,Northeast,Sampleton,Small Business,2023-11-16
+C00040,Casey Fiction,customer00040@example.invalid,West,Summit Bay,Small Business,2024-07-05
+C00041,Jamie Sample,customer00041@example.invalid,Southwest,Redstone,Consumer,2023-01-21
+C00042,Riley Sample,customer00042@example.invalid,Midwest,Lakeview,Consumer,2023-10-21
+C00043,Jamie Fiction,customer00043@example.invalid,Southwest,Sagebrush,Consumer,2024-09-25
+C00044,Alex Demo,customer00044@example.invalid,Southeast,Clearwater,Small Business,2023-06-10
+C00045,Riley Synthetic,customer00045@example.invalid,West,Silverpine,Consumer,2023-07-19
+C00046,Cameron Example,customer00046@example.invalid,Southwest,Sagebrush,Small Business,2024-02-20
+C00047,Morgan Dataset,customer00047@example.invalid,Northeast,Sampleton,Consumer,2024-09-04
+C00048,Jamie Fiction,customer00048@example.invalid,Midwest,Fairview,Small Business,2024-04-17
+C00049,Jamie Sample,customer00049@example.invalid,West,Westhaven,Consumer,2024-12-13
+C00050,Jordan Testwell,customer00050@example.invalid,Southeast,Pinehaven,Consumer,2023-01-12
+C00051,Taylor Sample,customer00051@example.invalid,Southwest,Mesa Vista,Consumer,2023-06-21
+C00052,Morgan Fiction,customer00052@example.invalid,Southwest,Mesa Vista,Consumer,2024-09-07
+C00053,Riley Placeholder,customer00053@example.invalid,West,Summit Bay,Consumer,2024-02-24
+C00054,Casey Synthetic,customer00054@example.invalid,Midwest,Fairview,Consumer,2023-01-03
+C00055,Casey Placeholder,customer00055@example.invalid,Southeast,Pinehaven,Enterprise,2023-09-11
+C00056,Quinn Synthetic,customer00056@example.invalid,West,Westhaven,Consumer,2024-12-09
+C00057,Cameron Mockley,customer00057@example.invalid,Southwest,Mesa Vista,Consumer,2023-04-07
+C00058,Cameron Sample,customer00058@example.invalid,West,Westhaven,Consumer,2024-05-11
+C00059,Casey Practice,customer00059@example.invalid,Northeast,Mapleford,Consumer,2023-10-20
+C00060,Jamie Example,customer00060@example.invalid,West,Silverpine,Consumer,2023-07-11
+C00061,Cameron Practice,customer00061@example.invalid,Midwest,Cedarfield,Small Business,2024-12-16
+C00062,Riley Practice,customer00062@example.invalid,Midwest,Fairview,Consumer,2023-10-12
+C00063,Avery Practice,customer00063@example.invalid,Midwest,Cedarfield,Consumer,2023-05-31
+C00064,Morgan Dataset,customer00064@example.invalid,West,Silverpine,Consumer,2024-12-08
+C00065,Casey Practice,customer00065@example.invalid,Northeast,Riverton,Consumer,2023-02-17
+C00066,Jamie Synthetic,customer00066@example.invalid,Northeast,Riverton,Small Business,2024-06-28
+C00067,Cameron Practice,customer00067@example.invalid,West,Silverpine,Consumer,2024-03-18
+C00068,Taylor Dataset,customer00068@example.invalid,Southwest,Redstone,Consumer,2024-12-24
+C00069,Quinn Synthetic,customer00069@example.invalid,West,Summit Bay,Small Business,2023-05-08
+C00070,Jordan Practice,customer00070@example.invalid,Southeast,Pinehaven,Consumer,2023-05-17
+C00071,Morgan Testwell,customer00071@example.invalid,Southeast,Clearwater,Consumer,2023-07-01
+C00072,Alex Dataset,customer00072@example.invalid,Southeast,Pinehaven,Small Business,2023-06-20
+C00073,Casey Dataset,customer00073@example.invalid,West,Summit Bay,Consumer,2023-05-11
+C00074,Avery Placeholder,customer00074@example.invalid,West,Summit Bay,Consumer,2024-07-07
+C00075,Riley Example,customer00075@example.invalid,Northeast,Riverton,Consumer,2023-03-23
+C00076,Cameron Placeholder,customer00076@example.invalid,Southwest,Redstone,Consumer,2023-03-27
+C00077,Jamie Example,customer00077@example.invalid,Northeast,Riverton,Small Business,2024-02-20
+C00078,Alex Demo,customer00078@example.invalid,West,Westhaven,Small Business,2024-11-19
+C00079,Quinn Testwell,customer00079@example.invalid,Southeast,Pinehaven,Consumer,2024-12-01
+C00080,Riley Fiction,customer00080@example.invalid,West,Silverpine,Consumer,2024-11-27
+C00081,Jordan Mockley,customer00081@example.invalid,Midwest,Fairview,Consumer,2023-03-29
+C00082,Quinn Practice,customer00082@example.invalid,Northeast,Riverton,Consumer,2024-05-22
+C00083,Alex Demo,customer00083@example.invalid,Midwest,Fairview,Consumer,2023-08-07
+C00084,Riley Demo,customer00084@example.invalid,Northeast,Sampleton,Consumer,2024-02-15
+C00085,Avery Practice,customer00085@example.invalid,Southwest,Sagebrush,Consumer,2024-08-09
+C00086,Cameron Dataset,customer00086@example.invalid,Northeast,Sampleton,Consumer,2023-07-20
+C00087,Quinn Testwell,customer00087@example.invalid,Southwest,Redstone,Consumer,2023-07-13
+C00088,Avery Testwell,customer00088@example.invalid,Southwest,Mesa Vista,Consumer,2024-06-22
+C00089,Morgan Sample,customer00089@example.invalid,Northeast,Sampleton,Consumer,2023-07-11
+C00090,Morgan Placeholder,customer00090@example.invalid,West,Silverpine,Consumer,2023-11-14
+C00091,Alex Fiction,customer00091@example.invalid,Southwest,Redstone,Consumer,2023-07-13
+C00092,Riley Dataset,customer00092@example.invalid,Northeast,Sampleton,Consumer,2023-01-23
+C00093,Riley Synthetic,customer00093@example.invalid,Southwest,Redstone,Consumer,2023-05-08
+C00094,Jamie Testwell,customer00094@example.invalid,Northeast,Sampleton,Consumer,2023-07-09
+C00095,Alex Example,customer00095@example.invalid,Southeast,Pinehaven,Small Business,2024-05-23
+C00096,Alex Placeholder,customer00096@example.invalid,Southeast,Oakridge,Consumer,2024-02-17
+C00097,Taylor Placeholder,customer00097@example.invalid,Southwest,Mesa Vista,Consumer,2023-12-23
+C00098,Taylor Practice,customer00098@example.invalid,Southwest,Redstone,Consumer,2024-02-14
+C00099,Morgan Fiction,customer00099@example.invalid,West,Silverpine,Small Business,2023-10-04
+C00100,Quinn Synthetic,customer00100@example.invalid,Southeast,Oakridge,Consumer,2023-12-12
+C00101,Cameron Mockley,customer00101@example.invalid,West,Silverpine,Consumer,2024-12-18
+C00102,Avery Demo,customer00102@example.invalid,Midwest,Fairview,Consumer,2023-09-28
+C00103,Casey Placeholder,customer00103@example.invalid,Northeast,Riverton,Consumer,2023-12-09
+C00104,Jamie Synthetic,customer00104@example.invalid,Southwest,Sagebrush,Consumer,2023-03-17
+C00105,Casey Fiction,customer00105@example.invalid,West,Silverpine,Small Business,2023-12-20
+C00106,Morgan Testwell,customer00106@example.invalid,Southeast,Clearwater,Consumer,2023-10-20
+C00107,Cameron Testwell,customer00107@example.invalid,Midwest,Cedarfield,Consumer,2024-11-07
+C00108,Cameron Example,customer00108@example.invalid,Southwest,Sagebrush,Small Business,2023-04-13
+C00109,Quinn Sample,customer00109@example.invalid,Southeast,Clearwater,Consumer,2024-01-27
+C00110,Avery Demo,customer00110@example.invalid,Southwest,Mesa Vista,Consumer,2024-09-03
+C00111,Morgan Sample,customer00111@example.invalid,Southeast,Oakridge,Consumer,2023-03-25
+C00112,Quinn Placeholder,customer00112@example.invalid,Southeast,Oakridge,Consumer,2024-09-26
+C00113,Riley Testwell,customer00113@example.invalid,Northeast,Riverton,Consumer,2024-01-10
+C00114,Morgan Fiction,customer00114@example.invalid,West,Westhaven,Consumer,2023-07-25
+C00115,Casey Fiction,customer00115@example.invalid,Midwest,Lakeview,Consumer,2024-03-24
+C00116,Jordan Dataset,customer00116@example.invalid,Southwest,Redstone,Consumer,2024-01-27
+C00117,Riley Demo,customer00117@example.invalid,Northeast,Sampleton,Small Business,2023-04-22
+C00118,Avery Demo,customer00118@example.invalid,Midwest,Lakeview,Consumer,2023-11-01
+C00119,Cameron Fiction,customer00119@example.invalid,Midwest,Cedarfield,Small Business,2023-02-17
+C00120,Riley Sample,customer00120@example.invalid,Midwest,Cedarfield,Consumer,2024-05-07
+C00121,Jordan Practice,customer00121@example.invalid,Southwest,Sagebrush,Consumer,2024-04-27
+C00122,Avery Practice,customer00122@example.invalid,Southwest,Redstone,Consumer,2023-05-12
+C00123,Casey Dataset,customer00123@example.invalid,West,Westhaven,Enterprise,2023-05-14
+C00124,Jamie Sample,customer00124@example.invalid,Northeast,Riverton,Consumer,2024-07-31
+C00125,Alex Demo,customer00125@example.invalid,Midwest,Lakeview,Enterprise,2024-02-01
+C00126,Casey Fiction,customer00126@example.invalid,Northeast,Riverton,Consumer,2024-03-10
+C00127,Quinn Fiction,customer00127@example.invalid,Southwest,Redstone,Consumer,2023-11-17
+C00128,Morgan Practice,customer00128@example.invalid,Southwest,Mesa Vista,Consumer,2023-03-16
+C00129,Morgan Placeholder,customer00129@example.invalid,Northeast,Mapleford,Consumer,2024-12-04
+C00130,Riley Placeholder,customer00130@example.invalid,Southwest,Mesa Vista,Consumer,2023-02-05
+C00131,Alex Practice,customer00131@example.invalid,West,Silverpine,Small Business,2023-02-13
+C00132,Taylor Practice,customer00132@example.invalid,West,Summit Bay,Consumer,2024-03-26
+C00133,Avery Dataset,customer00133@example.invalid,West,Silverpine,Consumer,2023-07-27
+C00134,Casey Testwell,customer00134@example.invalid,Northeast,Sampleton,Consumer,2024-02-13
+C00135,Quinn Fiction,customer00135@example.invalid,West,Summit Bay,Consumer,2024-01-15
+C00136,Jordan Placeholder,customer00136@example.invalid,Northeast,Riverton,Consumer,2024-11-02
+C00137,Jamie Placeholder,customer00137@example.invalid,Southwest,Mesa Vista,Consumer,2024-03-28
+C00138,Taylor Fiction,customer00138@example.invalid,Northeast,Mapleford,Enterprise,2023-04-12
+C00139,Riley Testwell,customer00139@example.invalid,Midwest,Fairview,Consumer,2024-01-29
+C00140,Cameron Fiction,customer00140@example.invalid,Southeast,Pinehaven,Small Business,2024-08-27
+C00141,Casey Mockley,customer00141@example.invalid,Northeast,Sampleton,Small Business,2023-05-14
+C00142,Quinn Practice,customer00142@example.invalid,West,Summit Bay,Enterprise,2024-01-19
+C00143,Jamie Practice,customer00143@example.invalid,Southeast,Oakridge,Enterprise,2024-06-07
+C00144,Alex Practice,customer00144@example.invalid,Southwest,Redstone,Consumer,2024-03-26
+C00145,Cameron Practice,customer00145@example.invalid,Northeast,Mapleford,Consumer,2023-09-30
+C00146,Taylor Sample,customer00146@example.invalid,Southeast,Pinehaven,Consumer,2023-08-31
+C00147,Riley Mockley,customer00147@example.invalid,Midwest,Lakeview,Small Business,2024-11-29
+C00148,Jordan Fiction,customer00148@example.invalid,Southwest,Sagebrush,Consumer,2024-04-28
+C00149,Jamie Dataset,customer00149@example.invalid,Northeast,Riverton,Small Business,2023-06-12
+C00150,Alex Sample,customer00150@example.invalid,Southwest,Redstone,Consumer,2024-12-12
+C00151,Jamie Testwell,customer00151@example.invalid,West,Summit Bay,Consumer,2024-07-10
+C00152,Riley Demo,customer00152@example.invalid,Midwest,Lakeview,Enterprise,2024-07-14
+C00153,Casey Practice,customer00153@example.invalid,Southwest,Redstone,Consumer,2024-03-11
+C00154,Riley Testwell,customer00154@example.invalid,Southeast,Oakridge,Consumer,2024-05-18
+C00155,Jordan Practice,customer00155@example.invalid,Southeast,Oakridge,Consumer,2024-07-21
+C00156,Riley Practice,customer00156@example.invalid,Midwest,Cedarfield,Small Business,2023-01-13
+C00157,Taylor Practice,customer00157@example.invalid,West,Summit Bay,Consumer,2023-02-07
+C00158,Jordan Example,customer00158@example.invalid,Midwest,Fairview,Small Business,2023-07-21
+C00159,Casey Testwell,customer00159@example.invalid,Northeast,Mapleford,Consumer,2024-09-18
+C00160,Morgan Dataset,customer00160@example.invalid,Southwest,Sagebrush,Consumer,2023-04-30
+C00161,Quinn Mockley,customer00161@example.invalid,Southwest,Mesa Vista,Consumer,2023-08-12
+C00162,Quinn Testwell,customer00162@example.invalid,West,Silverpine,Small Business,2024-02-16
+C00163,Jordan Testwell,customer00163@example.invalid,West,Silverpine,Consumer,2024-03-08
+C00164,Morgan Fiction,customer00164@example.invalid,West,Silverpine,Enterprise,2024-12-14
+C00165,Jamie Fiction,customer00165@example.invalid,Northeast,Sampleton,Consumer,2024-04-03
+C00166,Cameron Demo,customer00166@example.invalid,Southwest,Sagebrush,Small Business,2024-03-28
+C00167,Jordan Synthetic,customer00167@example.invalid,West,Summit Bay,Consumer,2024-06-30
+C00168,Cameron Dataset,customer00168@example.invalid,Northeast,Riverton,Consumer,2023-12-23
+C00169,Morgan Synthetic,customer00169@example.invalid,West,Summit Bay,Small Business,2024-09-16
+C00170,Riley Placeholder,customer00170@example.invalid,Southwest,Mesa Vista,Consumer,2023-09-20
+C00171,Alex Practice,customer00171@example.invalid,Midwest,Cedarfield,Small Business,2024-01-11
+C00172,Alex Sample,customer00172@example.invalid,Southeast,Oakridge,Small Business,2024-12-12
+C00173,Cameron Testwell,customer00173@example.invalid,Southeast,Clearwater,Small Business,2024-11-12
+C00174,Cameron Practice,customer00174@example.invalid,Northeast,Mapleford,Consumer,2024-08-07
+C00175,Riley Example,customer00175@example.invalid,Midwest,Fairview,Consumer,2023-02-18
+C00176,Cameron Practice,customer00176@example.invalid,West,Summit Bay,Consumer,2024-03-03
+C00177,Alex Synthetic,customer00177@example.invalid,Southeast,Pinehaven,Small Business,2024-02-16
+C00178,Casey Dataset,customer00178@example.invalid,Southwest,Redstone,Small Business,2023-04-04
+C00179,Jordan Fiction,customer00179@example.invalid,Northeast,Riverton,Consumer,2023-05-04
+C00180,Casey Demo,customer00180@example.invalid,Southwest,Mesa Vista,Small Business,2023-09-22
+C00181,Casey Placeholder,customer00181@example.invalid,Southeast,Pinehaven,Consumer,2023-11-28
+C00182,Taylor Synthetic,customer00182@example.invalid,Midwest,Cedarfield,Consumer,2024-07-22
+C00183,Alex Practice,customer00183@example.invalid,Southeast,Oakridge,Consumer,2023-07-16
+C00184,Alex Practice,customer00184@example.invalid,Southwest,Redstone,Consumer,2023-10-06
+C00185,Riley Example,customer00185@example.invalid,Midwest,Lakeview,Consumer,2024-09-29
+C00186,Jamie Practice,customer00186@example.invalid,Midwest,Lakeview,Consumer,2023-09-12
+C00187,Quinn Fiction,customer00187@example.invalid,Midwest,Fairview,Small Business,2024-05-22
+C00188,Avery Example,customer00188@example.invalid,Southwest,Sagebrush,Consumer,2024-03-18
+C00189,Jamie Mockley,customer00189@example.invalid,West,Summit Bay,Small Business,2023-01-27
+C00190,Riley Placeholder,customer00190@example.invalid,Southwest,Redstone,Enterprise,2023-03-30
+C00191,Morgan Testwell,customer00191@example.invalid,Southeast,Pinehaven,Consumer,2023-06-17
+C00192,Jamie Practice,customer00192@example.invalid,Northeast,Riverton,Consumer,2024-09-25
+C00193,Jordan Placeholder,customer00193@example.invalid,West,Summit Bay,Consumer,2024-09-12
+C00194,Cameron Testwell,customer00194@example.invalid,Southeast,Clearwater,Small Business,2023-03-18
+C00195,Avery Practice,customer00195@example.invalid,Midwest,Fairview,Small Business,2024-01-22
+C00196,Jamie Example,customer00196@example.invalid,Southeast,Clearwater,Consumer,2024-09-30
+C00197,Taylor Demo,customer00197@example.invalid,Southwest,Sagebrush,Consumer,2024-07-11
+C00198,Jamie Synthetic,customer00198@example.invalid,West,Westhaven,Consumer,2024-11-11
+C00199,Riley Dataset,customer00199@example.invalid,Southwest,Redstone,Small Business,2024-11-05
+C00200,Taylor Testwell,customer00200@example.invalid,Southeast,Oakridge,Consumer,2023-06-29
+C00201,Morgan Dataset,customer00201@example.invalid,West,Silverpine,Consumer,2023-02-06
+C00202,Jamie Placeholder,customer00202@example.invalid,Midwest,Fairview,Consumer,2024-08-08
+C00203,Alex Testwell,customer00203@example.invalid,Southwest,Sagebrush,Consumer,2023-05-09
+C00204,Riley Dataset,customer00204@example.invalid,Southwest,Mesa Vista,Consumer,2024-04-16
+C00205,Riley Testwell,customer00205@example.invalid,Southwest,Redstone,Small Business,2024-05-31
+C00206,Avery Sample,customer00206@example.invalid,Southwest,Sagebrush,Enterprise,2023-07-21
+C00207,Taylor Testwell,customer00207@example.invalid,Midwest,Fairview,Consumer,2024-05-25
+C00208,Cameron Sample,customer00208@example.invalid,Midwest,Cedarfield,Consumer,2023-12-15
+C00209,Riley Demo,customer00209@example.invalid,Midwest,Fairview,Consumer,2023-02-23
+C00210,Avery Fiction,customer00210@example.invalid,Northeast,Riverton,Consumer,2023-08-16
+C00211,Riley Demo,customer00211@example.invalid,Southeast,Oakridge,Consumer,2023-08-05
+C00212,Casey Example,customer00212@example.invalid,West,Westhaven,Consumer,2023-07-07
+C00213,Jordan Synthetic,customer00213@example.invalid,West,Summit Bay,Consumer,2024-11-28
+C00214,Taylor Fiction,customer00214@example.invalid,Midwest,Lakeview,Small Business,2023-09-20
+C00215,Avery Demo,customer00215@example.invalid,Northeast,Riverton,Consumer,2024-11-17
+C00216,Casey Mockley,customer00216@example.invalid,Southeast,Oakridge,Consumer,2023-03-11
+C00217,Avery Mockley,customer00217@example.invalid,Northeast,Sampleton,Consumer,2024-05-02
+C00218,Quinn Dataset,customer00218@example.invalid,West,Summit Bay,Consumer,2024-06-16
+C00219,Taylor Sample,customer00219@example.invalid,Midwest,Cedarfield,Consumer,2023-04-13
+C00220,Alex Example,customer00220@example.invalid,Southwest,Redstone,Consumer,2023-05-29
+C00221,Casey Dataset,customer00221@example.invalid,Northeast,Sampleton,Consumer,2024-02-07
+C00222,Quinn Fiction,customer00222@example.invalid,Midwest,Cedarfield,Small Business,2024-05-19
+C00223,Avery Sample,customer00223@example.invalid,Northeast,Mapleford,Small Business,2023-02-18
+C00224,Quinn Placeholder,customer00224@example.invalid,West,Summit Bay,Consumer,2024-10-02
+C00225,Taylor Dataset,customer00225@example.invalid,Midwest,Fairview,Consumer,2025-01-01
+C00226,Taylor Dataset,customer00226@example.invalid,West,Summit Bay,Consumer,2024-04-02
+C00227,Taylor Mockley,customer00227@example.invalid,Northeast,Riverton,Consumer,2023-11-03
+C00228,Cameron Example,customer00228@example.invalid,Northeast,Sampleton,Consumer,2023-06-17
+C00229,Morgan Demo,customer00229@example.invalid,West,Westhaven,Consumer,2024-06-06
+C00230,Morgan Mockley,customer00230@example.invalid,Midwest,Lakeview,Consumer,2024-09-10
+C00231,Casey Placeholder,customer00231@example.invalid,West,Summit Bay,Consumer,2024-04-27
+C00232,Jamie Example,customer00232@example.invalid,Midwest,Lakeview,Consumer,2023-04-22
+C00233,Avery Example,customer00233@example.invalid,Midwest,Cedarfield,Consumer,2023-01-03
+C00234,Jamie Testwell,customer00234@example.invalid,Southwest,Redstone,Consumer,2023-04-10
+C00235,Alex Fiction,customer00235@example.invalid,Midwest,Cedarfield,Consumer,2023-01-08
+C00236,Riley Example,customer00236@example.invalid,Southwest,Redstone,Consumer,2023-02-20
+C00237,Taylor Dataset,customer00237@example.invalid,Northeast,Sampleton,Consumer,2023-08-02
+C00238,Morgan Mockley,customer00238@example.invalid,Southwest,Sagebrush,Consumer,2024-10-21
+C00239,Cameron Placeholder,customer00239@example.invalid,Southeast,Pinehaven,Small Business,2024-02-24
+C00240,Morgan Placeholder,customer00240@example.invalid,Southeast,Clearwater,Consumer,2023-04-13
+C00241,Quinn Sample,customer00241@example.invalid,West,Summit Bay,Small Business,2024-08-04
+C00242,Cameron Practice,customer00242@example.invalid,Northeast,Riverton,Small Business,2023-04-16
+C00243,Morgan Synthetic,customer00243@example.invalid,Northeast,Sampleton,Consumer,2023-08-03
+C00244,Taylor Synthetic,customer00244@example.invalid,Northeast,Riverton,Consumer,2024-03-03
+C00245,Riley Testwell,customer00245@example.invalid,Northeast,Sampleton,Consumer,2024-03-02
+C00246,Alex Synthetic,customer00246@example.invalid,Northeast,Riverton,Small Business,2024-02-13
+C00247,Casey Practice,customer00247@example.invalid,Midwest,Cedarfield,Consumer,2024-02-22
+C00248,Quinn Placeholder,customer00248@example.invalid,Northeast,Riverton,Consumer,2023-01-15
+C00249,Alex Example,customer00249@example.invalid,West,Summit Bay,Consumer,2024-03-13
+C00250,Quinn Demo,customer00250@example.invalid,Southeast,Pinehaven,Enterprise,2024-09-20
+C00251,Cameron Synthetic,customer00251@example.invalid,Midwest,Fairview,Small Business,2024-06-21
+C00252,Alex Synthetic,customer00252@example.invalid,West,Westhaven,Consumer,2023-02-20
+C00253,Casey Demo,customer00253@example.invalid,Midwest,Lakeview,Consumer,2023-07-17
+C00254,Alex Practice,customer00254@example.invalid,Northeast,Riverton,Small Business,2023-11-25
+C00255,Alex Demo,customer00255@example.invalid,Southwest,Redstone,Consumer,2023-10-13
+C00256,Casey Demo,customer00256@example.invalid,Northeast,Mapleford,Consumer,2024-07-13
+C00257,Quinn Mockley,customer00257@example.invalid,West,Silverpine,Small Business,2023-07-31
+C00258,Quinn Synthetic,customer00258@example.invalid,Midwest,Cedarfield,Consumer,2024-08-30
+C00259,Quinn Fiction,customer00259@example.invalid,West,Silverpine,Small Business,2023-08-28
+C00260,Jordan Demo,customer00260@example.invalid,Southwest,Sagebrush,Enterprise,2023-08-26
+C00261,Morgan Dataset,customer00261@example.invalid,Southwest,Mesa Vista,Consumer,2024-05-04
+C00262,Casey Fiction,customer00262@example.invalid,Northeast,Mapleford,Consumer,2024-02-01
+C00263,Riley Synthetic,customer00263@example.invalid,Southeast,Clearwater,Consumer,2023-10-17
+C00264,Avery Placeholder,customer00264@example.invalid,West,Silverpine,Consumer,2024-08-28
+C00265,Quinn Fiction,customer00265@example.invalid,Northeast,Sampleton,Consumer,2024-06-10
+C00266,Jordan Sample,customer00266@example.invalid,West,Silverpine,Consumer,2023-09-24
+C00267,Alex Practice,customer00267@example.invalid,West,Silverpine,Consumer,2023-08-04
+C00268,Casey Demo,customer00268@example.invalid,Southwest,Sagebrush,Consumer,2024-04-16
+C00269,Alex Dataset,customer00269@example.invalid,West,Summit Bay,Consumer,2024-12-11
+C00270,Cameron Practice,customer00270@example.invalid,Southwest,Sagebrush,Consumer,2023-11-01
+C00271,Avery Synthetic,customer00271@example.invalid,West,Summit Bay,Consumer,2024-01-16
+C00272,Taylor Fiction,customer00272@example.invalid,Southwest,Mesa Vista,Small Business,2024-09-11
+C00273,Casey Dataset,customer00273@example.invalid,Northeast,Riverton,Consumer,2024-05-19
+C00274,Taylor Practice,customer00274@example.invalid,Northeast,Mapleford,Consumer,2023-11-07
+C00275,Jamie Example,customer00275@example.invalid,West,Westhaven,Consumer,2023-04-14
+C00276,Taylor Demo,customer00276@example.invalid,Southeast,Clearwater,Consumer,2023-02-04
+C00277,Casey Synthetic,customer00277@example.invalid,West,Westhaven,Consumer,2024-08-08
+C00278,Avery Fiction,customer00278@example.invalid,West,Silverpine,Consumer,2023-02-20
+C00279,Jamie Fiction,customer00279@example.invalid,West,Summit Bay,Consumer,2024-02-13
+C00280,Casey Mockley,customer00280@example.invalid,West,Summit Bay,Consumer,2023-09-08
+C00281,Alex Synthetic,customer00281@example.invalid,Southwest,Redstone,Consumer,2023-01-20
+C00282,Casey Demo,customer00282@example.invalid,Northeast,Riverton,Small Business,2024-05-13
+C00283,Cameron Fiction,customer00283@example.invalid,Southeast,Clearwater,Small Business,2023-02-08
+C00284,Taylor Example,customer00284@example.invalid,Midwest,Lakeview,Consumer,2023-09-20
+C00285,Cameron Sample,customer00285@example.invalid,Midwest,Fairview,Small Business,2023-12-28
+C00286,Quinn Fiction,customer00286@example.invalid,Southeast,Pinehaven,Consumer,2023-07-30
+C00287,Riley Fiction,customer00287@example.invalid,Southwest,Redstone,Enterprise,2023-09-17
+C00288,Morgan Practice,customer00288@example.invalid,Midwest,Lakeview,Consumer,2023-02-01
+C00289,Casey Mockley,customer00289@example.invalid,Southeast,Oakridge,Consumer,2024-06-30
+C00290,Alex Synthetic,customer00290@example.invalid,Midwest,Lakeview,Consumer,2023-08-23
+C00291,Jordan Synthetic,customer00291@example.invalid,Midwest,Fairview,Consumer,2024-07-18
+C00292,Riley Demo,customer00292@example.invalid,Southeast,Oakridge,Consumer,2023-06-19
+C00293,Jordan Demo,customer00293@example.invalid,Midwest,Fairview,Consumer,2023-05-17
+C00294,Riley Demo,customer00294@example.invalid,West,Summit Bay,Consumer,2024-03-13
+C00295,Morgan Sample,customer00295@example.invalid,Northeast,Sampleton,Consumer,2024-10-31
+C00296,Alex Sample,customer00296@example.invalid,Southeast,Pinehaven,Consumer,2023-06-13
+C00297,Alex Sample,customer00297@example.invalid,Southwest,Sagebrush,Consumer,2023-12-03
+C00298,Alex Fiction,customer00298@example.invalid,Southwest,Mesa Vista,Small Business,2023-04-23
+C00299,Riley Fiction,customer00299@example.invalid,Midwest,Cedarfield,Consumer,2024-08-07
+C00300,Avery Dataset,customer00300@example.invalid,Southwest,Redstone,Small Business,2024-08-21
+C00301,Jamie Mockley,customer00301@example.invalid,Southwest,Mesa Vista,Consumer,2024-03-07
+C00302,Taylor Placeholder,customer00302@example.invalid,Southwest,Sagebrush,Consumer,2024-07-09
+C00303,Cameron Synthetic,customer00303@example.invalid,Northeast,Riverton,Consumer,2023-10-05
+C00304,Cameron Dataset,customer00304@example.invalid,Midwest,Cedarfield,Consumer,2024-12-02
+C00305,Taylor Practice,customer00305@example.invalid,Midwest,Cedarfield,Consumer,2023-05-22
+C00306,Taylor Dataset,customer00306@example.invalid,Northeast,Mapleford,Small Business,2024-09-26
+C00307,Alex Example,customer00307@example.invalid,Midwest,Lakeview,Consumer,2024-04-08
+C00308,Cameron Placeholder,customer00308@example.invalid,Northeast,Sampleton,Consumer,2023-04-24
+C00309,Alex Mockley,customer00309@example.invalid,Southwest,Mesa Vista,Small Business,2023-04-16
+C00310,Jamie Dataset,customer00310@example.invalid,West,Summit Bay,Consumer,2024-12-25
+C00311,Cameron Sample,customer00311@example.invalid,Southeast,Oakridge,Consumer,2023-05-25
+C00312,Casey Demo,customer00312@example.invalid,West,Silverpine,Small Business,2024-04-02
+C00313,Quinn Example,customer00313@example.invalid,Midwest,Cedarfield,Consumer,2023-06-22
+C00314,Alex Fiction,customer00314@example.invalid,Southeast,Clearwater,Consumer,2023-05-24
+C00315,Morgan Placeholder,customer00315@example.invalid,Southeast,Oakridge,Consumer,2024-06-21
+C00316,Quinn Placeholder,customer00316@example.invalid,Northeast,Riverton,Consumer,2023-07-26
+C00317,Jamie Testwell,customer00317@example.invalid,Southwest,Sagebrush,Consumer,2023-09-01
+C00318,Avery Dataset,customer00318@example.invalid,Midwest,Lakeview,Consumer,2024-05-31
+C00319,Cameron Sample,customer00319@example.invalid,Midwest,Cedarfield,Small Business,2023-01-27
+C00320,Cameron Testwell,customer00320@example.invalid,West,Summit Bay,Consumer,2024-03-17
+C00321,Cameron Mockley,customer00321@example.invalid,West,Summit Bay,Consumer,2023-11-21
+C00322,Jordan Mockley,customer00322@example.invalid,West,Silverpine,Small Business,2024-08-31
+C00323,Cameron Example,customer00323@example.invalid,Southwest,Mesa Vista,Consumer,2024-09-18
+C00324,Avery Demo,customer00324@example.invalid,Southeast,Clearwater,Consumer,2023-12-03
+C00325,Morgan Synthetic,customer00325@example.invalid,Southwest,Redstone,Consumer,2024-02-23
+C00326,Cameron Practice,customer00326@example.invalid,Midwest,Cedarfield,Consumer,2023-02-18
+C00327,Casey Demo,customer00327@example.invalid,Northeast,Riverton,Consumer,2023-12-08
+C00328,Casey Example,customer00328@example.invalid,Northeast,Mapleford,Consumer,2024-04-17
+C00329,Taylor Dataset,customer00329@example.invalid,Midwest,Lakeview,Consumer,2024-12-21
+C00330,Cameron Fiction,customer00330@example.invalid,Southeast,Pinehaven,Consumer,2024-03-30
+C00331,Jordan Mockley,customer00331@example.invalid,Midwest,Cedarfield,Consumer,2023-03-11
+C00332,Jordan Sample,customer00332@example.invalid,Southeast,Pinehaven,Consumer,2023-03-05
+C00333,Avery Fiction,customer00333@example.invalid,Southeast,Pinehaven,Consumer,2023-04-06
+C00334,Casey Testwell,customer00334@example.invalid,Southwest,Mesa Vista,Consumer,2024-01-11
+C00335,Jamie Practice,customer00335@example.invalid,Southeast,Pinehaven,Consumer,2023-09-14
+C00336,Cameron Mockley,customer00336@example.invalid,Southeast,Clearwater,Small Business,2024-10-11
+C00337,Alex Sample,customer00337@example.invalid,West,Summit Bay,Consumer,2023-01-20
+C00338,Quinn Sample,customer00338@example.invalid,West,Silverpine,Consumer,2023-06-05
+C00339,Jordan Mockley,customer00339@example.invalid,Midwest,Lakeview,Small Business,2023-11-06
+C00340,Quinn Synthetic,customer00340@example.invalid,Southwest,Redstone,Consumer,2023-07-04
+C00341,Jamie Placeholder,customer00341@example.invalid,West,Summit Bay,Consumer,2023-11-27
+C00342,Riley Placeholder,customer00342@example.invalid,Midwest,Lakeview,Consumer,2024-07-17
+C00343,Jordan Synthetic,customer00343@example.invalid,West,Summit Bay,Consumer,2023-03-08
+C00344,Taylor Mockley,customer00344@example.invalid,Midwest,Cedarfield,Small Business,2023-06-21
+C00345,Avery Testwell,customer00345@example.invalid,Midwest,Cedarfield,Consumer,2024-11-04
+C00346,Avery Practice,customer00346@example.invalid,Midwest,Cedarfield,Consumer,2024-04-27
+C00347,Jordan Placeholder,customer00347@example.invalid,Midwest,Fairview,Enterprise,2024-02-11
+C00348,Jamie Testwell,customer00348@example.invalid,Southwest,Mesa Vista,Consumer,2023-09-04
+C00349,Riley Dataset,customer00349@example.invalid,Southeast,Oakridge,Small Business,2023-02-15
+C00350,Alex Demo,customer00350@example.invalid,Midwest,Fairview,Small Business,2023-01-23
+C00351,Avery Placeholder,customer00351@example.invalid,Northeast,Riverton,Consumer,2023-05-23
+C00352,Jordan Synthetic,customer00352@example.invalid,Southwest,Redstone,Consumer,2023-06-01
+C00353,Jamie Synthetic,customer00353@example.invalid,West,Summit Bay,Consumer,2023-01-12
+C00354,Alex Dataset,customer00354@example.invalid,Midwest,Cedarfield,Consumer,2024-10-18
+C00355,Casey Practice,customer00355@example.invalid,Midwest,Fairview,Small Business,2023-09-24
+C00356,Cameron Sample,customer00356@example.invalid,Northeast,Sampleton,Consumer,2023-01-23
+C00357,Avery Synthetic,customer00357@example.invalid,Southeast,Pinehaven,Small Business,2024-06-03
+C00358,Cameron Mockley,customer00358@example.invalid,Midwest,Cedarfield,Consumer,2023-10-08
+C00359,Taylor Practice,customer00359@example.invalid,Northeast,Riverton,Consumer,2024-05-20
+C00360,Riley Placeholder,customer00360@example.invalid,Northeast,Sampleton,Consumer,2023-06-03
+C00361,Morgan Practice,customer00361@example.invalid,Midwest,Fairview,Consumer,2024-07-10
+C00362,Avery Dataset,customer00362@example.invalid,West,Summit Bay,Consumer,2024-09-13
+C00363,Morgan Synthetic,customer00363@example.invalid,Midwest,Lakeview,Consumer,2023-04-30
+C00364,Quinn Practice,customer00364@example.invalid,Northeast,Riverton,Consumer,2023-09-16
+C00365,Riley Practice,customer00365@example.invalid,Southwest,Mesa Vista,Consumer,2023-08-25
+C00366,Cameron Mockley,customer00366@example.invalid,West,Silverpine,Consumer,2024-01-11
+C00367,Avery Practice,customer00367@example.invalid,Northeast,Sampleton,Consumer,2023-04-15
+C00368,Taylor Sample,customer00368@example.invalid,West,Silverpine,Small Business,2024-03-11
+C00369,Casey Testwell,customer00369@example.invalid,Southwest,Sagebrush,Small Business,2023-01-03
+C00370,Jordan Mockley,customer00370@example.invalid,Southeast,Oakridge,Consumer,2023-01-24
+C00371,Riley Dataset,customer00371@example.invalid,West,Summit Bay,Consumer,2023-10-03
+C00372,Riley Sample,customer00372@example.invalid,Southwest,Redstone,Consumer,2023-07-26
+C00373,Quinn Fiction,customer00373@example.invalid,Northeast,Mapleford,Consumer,2024-09-24
+C00374,Casey Placeholder,customer00374@example.invalid,West,Summit Bay,Small Business,2024-07-05
+C00375,Casey Testwell,customer00375@example.invalid,Northeast,Sampleton,Consumer,2024-06-16
+C00376,Riley Fiction,customer00376@example.invalid,West,Summit Bay,Small Business,2023-12-10
+C00377,Alex Fiction,customer00377@example.invalid,Midwest,Cedarfield,Consumer,2023-07-30
+C00378,Cameron Synthetic,customer00378@example.invalid,Midwest,Cedarfield,Consumer,2023-10-31
+C00379,Avery Example,customer00379@example.invalid,Southwest,Sagebrush,Small Business,2024-02-18
+C00380,Morgan Placeholder,customer00380@example.invalid,Northeast,Sampleton,Consumer,2023-06-23
+C00381,Cameron Testwell,customer00381@example.invalid,Southwest,Mesa Vista,Consumer,2023-06-08
+C00382,Morgan Practice,customer00382@example.invalid,West,Summit Bay,Consumer,2024-03-28
+C00383,Quinn Dataset,customer00383@example.invalid,Northeast,Mapleford,Consumer,2023-04-08
+C00384,Cameron Testwell,customer00384@example.invalid,Southeast,Clearwater,Consumer,2024-12-03
+C00385,Taylor Practice,customer00385@example.invalid,Southeast,Clearwater,Consumer,2023-11-16
+C00386,Casey Example,customer00386@example.invalid,Northeast,Sampleton,Consumer,2024-02-25
+C00387,Alex Placeholder,customer00387@example.invalid,Midwest,Lakeview,Consumer,2023-04-18
+C00388,Taylor Example,customer00388@example.invalid,West,Summit Bay,Consumer,2023-05-04
+C00389,Morgan Synthetic,customer00389@example.invalid,Northeast,Sampleton,Consumer,2024-04-12
+C00390,Taylor Testwell,customer00390@example.invalid,West,Silverpine,Consumer,2023-01-26
+C00391,Morgan Mockley,customer00391@example.invalid,Northeast,Mapleford,Consumer,2023-08-14
+C00392,Alex Testwell,customer00392@example.invalid,Midwest,Lakeview,Consumer,2024-02-04
+C00393,Jamie Synthetic,customer00393@example.invalid,Southeast,Clearwater,Consumer,2023-04-06
+C00394,Alex Testwell,customer00394@example.invalid,West,Westhaven,Consumer,2023-10-02
+C00395,Riley Synthetic,customer00395@example.invalid,Southwest,Redstone,Consumer,2023-07-03
+C00396,Cameron Demo,customer00396@example.invalid,Southwest,Sagebrush,Small Business,2024-12-08
+C00397,Casey Testwell,customer00397@example.invalid,Southeast,Pinehaven,Consumer,2024-08-30
+C00398,Casey Testwell,customer00398@example.invalid,Southwest,Redstone,Consumer,2024-09-01
+C00399,Riley Fiction,customer00399@example.invalid,Midwest,Fairview,Consumer,2024-10-22
+C00400,Avery Mockley,customer00400@example.invalid,Southwest,Mesa Vista,Consumer,2023-06-15
+C00401,Quinn Mockley,customer00401@example.invalid,Northeast,Mapleford,Small Business,2024-09-09
+C00402,Jamie Demo,customer00402@example.invalid,Northeast,Sampleton,Consumer,2023-12-13
+C00403,Riley Placeholder,customer00403@example.invalid,Northeast,Sampleton,Consumer,2023-06-01
+C00404,Quinn Fiction,customer00404@example.invalid,Midwest,Lakeview,Consumer,2023-02-04
+C00405,Alex Synthetic,customer00405@example.invalid,Midwest,Lakeview,Consumer,2024-07-30
+C00406,Taylor Dataset,customer00406@example.invalid,Northeast,Riverton,Consumer,2024-12-11
+C00407,Quinn Synthetic,customer00407@example.invalid,Southeast,Pinehaven,Consumer,2023-02-06
+C00408,Cameron Sample,customer00408@example.invalid,Southwest,Mesa Vista,Consumer,2023-07-10
+C00409,Taylor Practice,customer00409@example.invalid,Southwest,Mesa Vista,Small Business,2024-07-12
+C00410,Alex Testwell,customer00410@example.invalid,Midwest,Cedarfield,Consumer,2024-07-02
+C00411,Taylor Testwell,customer00411@example.invalid,Northeast,Riverton,Consumer,2023-03-05
+C00412,Alex Synthetic,customer00412@example.invalid,Midwest,Lakeview,Consumer,2024-10-14
+C00413,Casey Testwell,customer00413@example.invalid,West,Westhaven,Enterprise,2023-12-14
+C00414,Avery Dataset,customer00414@example.invalid,Southwest,Sagebrush,Consumer,2024-11-10
+C00415,Avery Synthetic,customer00415@example.invalid,West,Summit Bay,Small Business,2024-03-21
+C00416,Avery Practice,customer00416@example.invalid,West,Silverpine,Consumer,2024-07-04
+C00417,Jamie Demo,customer00417@example.invalid,West,Summit Bay,Small Business,2023-05-15
+C00418,Jordan Fiction,customer00418@example.invalid,Southwest,Mesa Vista,Consumer,2024-09-06
+C00419,Riley Fiction,customer00419@example.invalid,Northeast,Sampleton,Consumer,2024-09-24
+C00420,Cameron Dataset,customer00420@example.invalid,Southwest,Mesa Vista,Small Business,2023-01-15
+C00421,Cameron Sample,customer00421@example.invalid,Southeast,Oakridge,Consumer,2023-03-16
+C00422,Morgan Example,customer00422@example.invalid,Southeast,Pinehaven,Consumer,2024-12-25
+C00423,Alex Practice,customer00423@example.invalid,Northeast,Mapleford,Small Business,2024-02-02
+C00424,Jordan Mockley,customer00424@example.invalid,West,Westhaven,Consumer,2023-08-30
+C00425,Alex Synthetic,customer00425@example.invalid,Northeast,Sampleton,Enterprise,2023-07-17
+C00426,Jamie Testwell,customer00426@example.invalid,Southeast,Clearwater,Small Business,2024-11-24
+C00427,Casey Practice,customer00427@example.invalid,West,Silverpine,Consumer,2024-08-20
+C00428,Avery Sample,customer00428@example.invalid,Northeast,Riverton,Consumer,2024-05-21
+C00429,Cameron Demo,customer00429@example.invalid,Northeast,Mapleford,Consumer,2023-04-17
+C00430,Riley Dataset,customer00430@example.invalid,Midwest,Lakeview,Small Business,2024-08-12
+C00431,Riley Placeholder,customer00431@example.invalid,Southwest,Redstone,Consumer,2023-10-07
+C00432,Casey Testwell,customer00432@example.invalid,Southwest,Sagebrush,Consumer,2024-04-13
+C00433,Taylor Demo,customer00433@example.invalid,Southeast,Clearwater,Small Business,2023-02-02
+C00434,Jamie Placeholder,customer00434@example.invalid,Midwest,Lakeview,Consumer,2023-06-07
+C00435,Quinn Practice,customer00435@example.invalid,Southeast,Oakridge,Consumer,2023-11-03
+C00436,Cameron Synthetic,customer00436@example.invalid,West,Westhaven,Enterprise,2024-06-09
+C00437,Cameron Demo,customer00437@example.invalid,Southeast,Pinehaven,Small Business,2023-02-25
+C00438,Riley Placeholder,customer00438@example.invalid,Southeast,Oakridge,Small Business,2024-11-06
+C00439,Quinn Mockley,customer00439@example.invalid,Southwest,Mesa Vista,Consumer,2023-09-16
+C00440,Alex Example,customer00440@example.invalid,Northeast,Mapleford,Consumer,2023-11-03
+C00441,Taylor Fiction,customer00441@example.invalid,Midwest,Cedarfield,Consumer,2024-10-30
+C00442,Casey Sample,customer00442@example.invalid,Southeast,Oakridge,Small Business,2024-07-02
+C00443,Riley Placeholder,customer00443@example.invalid,West,Silverpine,Consumer,2023-11-28
+C00444,Quinn Demo,customer00444@example.invalid,Northeast,Mapleford,Consumer,2023-04-17
+C00445,Alex Placeholder,customer00445@example.invalid,Southwest,Redstone,Enterprise,2024-11-13
+C00446,Morgan Example,customer00446@example.invalid,Southeast,Pinehaven,Consumer,2024-10-14
+C00447,Casey Synthetic,customer00447@example.invalid,Southeast,Oakridge,Consumer,2023-12-30
+C00448,Avery Mockley,customer00448@example.invalid,West,Silverpine,Consumer,2024-09-22
+C00449,Riley Mockley,customer00449@example.invalid,Northeast,Riverton,Consumer,2023-10-26
+C00450,Morgan Dataset,customer00450@example.invalid,Midwest,Lakeview,Enterprise,2024-04-25
+C00451,Casey Fiction,customer00451@example.invalid,Midwest,Fairview,Small Business,2024-09-17
+C00452,Avery Demo,customer00452@example.invalid,Southeast,Oakridge,Consumer,2023-04-05
+C00453,Casey Fiction,customer00453@example.invalid,Southeast,Pinehaven,Consumer,2023-10-11
+C00454,Jamie Mockley,customer00454@example.invalid,Northeast,Sampleton,Small Business,2023-01-12
+C00455,Riley Mockley,customer00455@example.invalid,West,Silverpine,Small Business,2023-11-11
+C00456,Riley Example,customer00456@example.invalid,Southwest,Sagebrush,Small Business,2023-01-18
+C00457,Jordan Demo,customer00457@example.invalid,Midwest,Lakeview,Consumer,2023-10-17
+C00458,Taylor Example,customer00458@example.invalid,Southwest,Redstone,Consumer,2023-05-18
+C00459,Cameron Placeholder,customer00459@example.invalid,West,Silverpine,Small Business,2023-08-01
+C00460,Alex Mockley,customer00460@example.invalid,Midwest,Fairview,Consumer,2024-05-02
+C00461,Avery Example,customer00461@example.invalid,Southeast,Pinehaven,Consumer,2024-11-16
+C00462,Alex Placeholder,customer00462@example.invalid,Southwest,Mesa Vista,Consumer,2023-04-02
+C00463,Morgan Practice,customer00463@example.invalid,West,Summit Bay,Consumer,2023-11-14
+C00464,Casey Testwell,customer00464@example.invalid,Southwest,Redstone,Consumer,2023-05-19
+C00465,Jordan Sample,customer00465@example.invalid,Southwest,Mesa Vista,Consumer,2024-12-10
+C00466,Casey Synthetic,customer00466@example.invalid,Midwest,Cedarfield,Consumer,2023-06-27
+C00467,Cameron Example,customer00467@example.invalid,Midwest,Cedarfield,Consumer,2023-03-15
+C00468,Cameron Testwell,customer00468@example.invalid,Southwest,Mesa Vista,Consumer,2023-01-11
+C00469,Cameron Sample,customer00469@example.invalid,Southwest,Sagebrush,Consumer,2024-01-08
+C00470,Alex Fiction,customer00470@example.invalid,Northeast,Sampleton,Consumer,2023-02-10
+C00471,Casey Placeholder,customer00471@example.invalid,Southwest,Mesa Vista,Enterprise,2023-03-11
+C00472,Riley Testwell,customer00472@example.invalid,West,Westhaven,Small Business,2024-04-11
+C00473,Alex Practice,customer00473@example.invalid,Midwest,Cedarfield,Consumer,2023-04-29
+C00474,Morgan Example,customer00474@example.invalid,Northeast,Sampleton,Consumer,2023-04-11
+C00475,Quinn Example,customer00475@example.invalid,West,Silverpine,Consumer,2023-02-14
+C00476,Quinn Sample,customer00476@example.invalid,West,Silverpine,Consumer,2023-09-29
+C00477,Casey Dataset,customer00477@example.invalid,West,Silverpine,Small Business,2024-06-15
+C00478,Avery Dataset,customer00478@example.invalid,Southeast,Pinehaven,Consumer,2023-05-07
+C00479,Taylor Fiction,customer00479@example.invalid,Southwest,Mesa Vista,Consumer,2024-09-04
+C00480,Jordan Example,customer00480@example.invalid,West,Westhaven,Small Business,2024-04-01
+C00481,Jordan Testwell,customer00481@example.invalid,Northeast,Sampleton,Consumer,2024-06-25
+C00482,Quinn Synthetic,customer00482@example.invalid,West,Summit Bay,Consumer,2023-11-13
+C00483,Quinn Fiction,customer00483@example.invalid,Midwest,Cedarfield,Consumer,2024-04-29
+C00484,Jordan Example,customer00484@example.invalid,Midwest,Fairview,Consumer,2024-04-03
+C00485,Riley Demo,customer00485@example.invalid,West,Summit Bay,Small Business,2023-10-08
+C00486,Taylor Dataset,customer00486@example.invalid,West,Silverpine,Consumer,2024-01-07
+C00487,Taylor Fiction,customer00487@example.invalid,Midwest,Cedarfield,Consumer,2023-12-19
+C00488,Quinn Mockley,customer00488@example.invalid,Southwest,Redstone,Enterprise,2023-05-31
+C00489,Cameron Synthetic,customer00489@example.invalid,Midwest,Lakeview,Consumer,2023-09-01
+C00490,Alex Placeholder,customer00490@example.invalid,West,Silverpine,Consumer,2024-10-01
+C00491,Alex Demo,customer00491@example.invalid,West,Silverpine,Consumer,2024-06-11
+C00492,Riley Mockley,customer00492@example.invalid,Northeast,Riverton,Consumer,2023-01-16
+C00493,Morgan Synthetic,customer00493@example.invalid,Midwest,Lakeview,Enterprise,2024-06-26
+C00494,Avery Sample,customer00494@example.invalid,Northeast,Riverton,Consumer,2024-11-28
+C00495,Taylor Testwell,customer00495@example.invalid,Northeast,Mapleford,Small Business,2023-12-11
+C00496,Morgan Mockley,customer00496@example.invalid,Southeast,Pinehaven,Consumer,2023-03-15
+C00497,Casey Sample,customer00497@example.invalid,Northeast,Riverton,Consumer,2023-12-15
+C00498,Jordan Practice,customer00498@example.invalid,Midwest,Cedarfield,Consumer,2023-04-03
+C00499,Quinn Placeholder,customer00499@example.invalid,Northeast,Riverton,Consumer,2024-08-25
+C00500,Casey Dataset,customer00500@example.invalid,Southwest,Redstone,Small Business,2023-10-13

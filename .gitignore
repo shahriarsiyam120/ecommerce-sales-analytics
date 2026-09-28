@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+*.tmp
+
+# Environments
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env*
+!.env.example
+.streamlit/secrets.toml
+**/secrets.toml
+*.pem
+*.p12
+*.key
+
+# Tool and editor files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local raw data and generated outputs
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
+artifacts/
+
+# Build output
+build/
+dist/
+*.egg-info/
